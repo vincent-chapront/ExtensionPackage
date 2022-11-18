@@ -1,0 +1,46 @@
+{
+  "description": "VCT.ExtensionPackage",
+  "version": "1.0.0.0",
+  "extensions": [
+    {
+      "vsixId": "CF4413C3-032A-46B4-B2B1-F1B2449B9CB8",
+      "name": "Ref12 VS2022"
+    },
+    {
+      "vsixId": "GitDiffMargin..5ef9f816-d9ce-45cd-a8fa-cd67a807df0e",
+      "name": "Git Diff Margin"
+    },
+    {
+      "vsixId": "IndentRainbow.f05146ed-8025-4668-b7b1-8a74bd22b241",
+      "name": "IndentRainbow"
+    },
+    {
+      "vsixId": "SonarLint.0DE19254-1DCA-4479-8EAF-58E5D677FF4D",
+      "name": "SonarLint for Visual Studio 2022"
+    },
+    {
+      "vsixId": "ProductivityPowerPack2022.0d5b9d71-e118-46de-a20c-555176e53900",
+      "name": "Productivity Power Tools 2022"
+    },
+    {
+      "vsixId": "9079e73d-3fbb-4e07-8dab-f44fa5d8e8b5",
+      "name": "CodeMaid VS2022"
+    },
+    {
+      "vsixId": "65dd734b-180a-4c67-b245-56de889637e1",
+      "name": "VSColorOutput64"
+    },
+    {
+      "vsixId": "f326ee1b-81a6-4577-b251-1f29d391cef3",
+      "name": "Roslynator 2022"
+    },
+    {
+      "vsixId": "RainbowBraces.1dff1bc5-a8e4-477b-9054-2b9ec6bb88d1",
+      "name": "Rainbow Braces"
+    },
+    {
+      "vsixId": "4c1a78e6-e7b8-4aa9-8812-4836e051ff6d",
+      "name": "Trailing Whitespace Visualizer"
+    }
+  ]
+}
