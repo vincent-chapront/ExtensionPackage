@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="VCT.ExtensionPackage.edd8f781-cdcf-43cc-bc4d-11e12d920643" Version="1.0" Language="en-US" Publisher="Vincent Chapront" />
+        <Identity Id="VCT.ExtensionPackage.edd8f781-cdcf-43cc-bc4d-11e12d920643" Version="1.0.2" Language="en-US" Publisher="Vincent Chapront" />
         <DisplayName>VCT.ExtensionPackage</DisplayName>
-        <Description xml:space="preserve">Empty VSIX Project.</Description>
-        <Preview>true</Preview>
+        <Description xml:space="preserve">My package of necessary extensions.</Description>
+        <MoreInfo>https://github.com/vincent-chapront/ExtensionPackage</MoreInfo>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
